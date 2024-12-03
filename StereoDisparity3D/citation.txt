@@ -1,0 +1,2 @@
+D. Scharstein and R. Szeliski. A taxonomy and evaluation of dense two-frame stereo correspondence algorithms.
+International Journal of Computer Vision, 47(1/2/3):7-42, April-June 2002.
