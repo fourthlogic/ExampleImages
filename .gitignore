@@ -351,7 +351,9 @@ ASALocalRun/
 *.dat
 
 # Match Data Files
-*flm
-*flmm
-*flg
+*.flm
+*.flmm
+*.flg
 *.flmg
+*.flmms
+*.flms
